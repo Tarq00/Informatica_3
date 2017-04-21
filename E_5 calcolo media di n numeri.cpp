@@ -3,8 +3,7 @@
 #include<math.h>
 
 /*Tarquini Lorenzo
-3°INA
-22/03/2017
+3Â°INA
 versione 1.0*/
 
 int main(){
